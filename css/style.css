@@ -1,0 +1,37 @@
+.post h2,
+.post h3 {
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 700;
+}
+
+.post img {
+    max-width: 100%;
+    height: auto;
+}
+
+.externalReviewImage {
+    background-repeat: repeat-x;
+    margin-left: 20px;
+    margin-top: 13px;
+}
+
+.externalReviewImage .reviewImageCTA {
+
+    line-height: 0px;
+    margin-top: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    display: inline-block;
+    position: relative;
+}
+
+.externalReviewImage .reviewImageCTA a {
+    position: absolute;
+    top: 5px;
+    left: 5px;
+}
+
+.reviewImageIcon {
+    margin-left: -1px;
+}
